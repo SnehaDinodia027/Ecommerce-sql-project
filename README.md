@@ -1,5 +1,5 @@
 # Ecommerce-sql-project
-Eal-world SQL project for E-Commerce Sales &amp; Customer Analysis using PostgreSQL
+Real-world SQL project
 # E-Commerce Sales & Customer Analytics (SQL Project)
 
 ## 📌 Project Overview
